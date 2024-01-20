@@ -1,0 +1,19 @@
+Module Conclusion: Final Project Announcement
+
+Dear students,
+
+As we wrap up our MySQL module, it's time for your final challenge – the Module End Project. All project details and tasks are outlined in the attached PDF document.
+
+Project Overview:
+
+Tasks: Refer to the enclosed PDF for specific project requirements.
+
+Submission Deadline: You have one month to complete the project. Please note that no extensions will be granted beyond the due date.
+
+Submission Method: Upload your completed project to your GitHub profile and share the links with us for assessment.
+
+This project is an opportunity for you to showcase your mastery of MySQL concepts. Apply what you've learned throughout the module to tackle the tasks effectively.
+
+Last Date for submission: 21/01/2024
+
+Best of luck!!
